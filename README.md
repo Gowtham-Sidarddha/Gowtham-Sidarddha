@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gowtham-Sidarddha
-- 👀 I’m interested in cyber security and web devolopment
-- 🌱 I’m currently learning java script and cyber security
-- 💞️ I’m looking to collaborate on app devolopment
+- 👀 I’m interested in Machine Leaning and A.I model devolopment
+- 🌱 I’m currently Mastering Python and Deep learning
+- 💞️ I’m looking to collaborate on A.I model decolopement
 - 📫 How to reach me gowthamrandhi@gmail.com
 
 <!---
